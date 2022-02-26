@@ -1,0 +1,15 @@
+.Content{
+    display: flex;
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    background-color:white;
+    padding: 0120px;
+  }
+
+  .pinfo {
+    margin: 8px auto;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #0d0d0d;
+   }
